@@ -1,2 +1,3 @@
 # iMemex
-The Memex Distributed, The Mind Extended
+
+> `iMemex: i(IPFS&I) + Memex(PC&Web) = PW(Personal Web)`
