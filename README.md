@@ -1,3 +1,7 @@
+# iMemex
+
+> `iMemex: i(IPFS&I) + Memex(PC&Web) = PW(Personal Web)`
+
 # Agregore Browser
 A minimal web browser for the distributed web
 
